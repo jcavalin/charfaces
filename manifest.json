@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/charfaces/?utm_source=homescreen",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#222"
